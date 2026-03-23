@@ -2,16 +2,13 @@
 
 Code repository for the health economic analysis of point-of-care ultrasound (POCUS) programs in low- and middle-income countries (LMICs).
 
-## Repository structure
+## Break-even analysis
 
-```
-.
-├── break-even/         # Break-even analysis
-├── data/               # Shared input data
-└── outputs/            # Generated outputs (not tracked)
-```
+The main data sources and input categories are:
 
-Each subdirectory contains its own README with details on inputs, methods, and outputs.
+- `data/thresholds.csv` contains country-level cost-effectiveness thresholds, income group labels, and baseline burden inputs. Baseline burden inputs are derived from the Global Burden of Disease 2023 study.
+- `data/structural_parameters.csv` stores structural parameters specified a priori from the existing literature, including device life, annual throughput, screening uptake, and scans per pregnancy.
+- `data/cost_inputs.csv` stores device, training, and per-scan cost inputs synthesized from existing studies. 
 
 ## Contact
 
