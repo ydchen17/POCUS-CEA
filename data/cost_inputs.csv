@@ -1,0 +1,7 @@
+name,scenario,base,low,high
+equipment_cost_package,ssa,650,450,900
+training_cost_package,ssa,350,200,500
+per_unit_cost,ssa,1.20,0.80,1.80
+equipment_cost_package,global,950,700,1300
+training_cost_package,global,500,300,700
+per_unit_cost,global,1.80,1.20,2.60

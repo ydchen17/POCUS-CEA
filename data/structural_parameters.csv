@@ -1,0 +1,5 @@
+name,base,low,high
+throughput,1500,1000,2000
+useful_life,5,3,7
+uptake,0.80,0.80,0.80
+units_per_person,2.00,2.00,2.00

@@ -1,0 +1,36 @@
+country,income_label,model_cost_scenario,threshold_label,ce_threshold,baseline_burden
+Ethiopia,Low income,ssa,1x GDPpc PPP,3287.5,1.7371
+Ethiopia,Low income,ssa,2x GDPpc PPP,6575.0,1.7371
+Ethiopia,Low income,ssa,3x GDPpc PPP,9862.5,1.7371
+Ethiopia,Low income,ssa,Ochalek low,329.2,1.7371
+Ethiopia,Low income,ssa,Ochalek high,468.0,1.7371
+Uganda,Low income,ssa,1x GDPpc PPP,3273.3,1.0040
+Uganda,Low income,ssa,2x GDPpc PPP,6546.6,1.0040
+Uganda,Low income,ssa,3x GDPpc PPP,9819.9,1.0040
+Uganda,Low income,ssa,Ochalek low,293.0,1.0040
+Uganda,Low income,ssa,Ochalek high,414.0,1.0040
+Kenya,Lower middle income,ssa,1x GDPpc PPP,6644.1,1.1322
+Kenya,Lower middle income,ssa,2x GDPpc PPP,13288.2,1.1322
+Kenya,Lower middle income,ssa,3x GDPpc PPP,19932.3,1.1322
+Kenya,Lower middle income,ssa,Ochalek low,849.0,1.1322
+Kenya,Lower middle income,ssa,Ochalek high,1207.0,1.1322
+Cambodia,Lower middle income,global,1x GDPpc PPP,5678.0,0.9500
+Cambodia,Lower middle income,global,2x GDPpc PPP,11356.0,0.9500
+Cambodia,Lower middle income,global,3x GDPpc PPP,17034.0,0.9500
+Cambodia,Lower middle income,global,Ochalek low,180.0,0.9500
+Cambodia,Lower middle income,global,Ochalek high,260.0,0.9500
+"Congo, Dem. Rep.",Low income,ssa,1x GDPpc PPP,1821.0,1.5652
+"Congo, Dem. Rep.",Low income,ssa,2x GDPpc PPP,3642.0,1.5652
+"Congo, Dem. Rep.",Low income,ssa,3x GDPpc PPP,5463.0,1.5652
+"Congo, Dem. Rep.",Low income,ssa,Ochalek low,72.0,1.5652
+"Congo, Dem. Rep.",Low income,ssa,Ochalek high,102.0,1.5652
+Guatemala,Upper middle income,global,1x GDPpc PPP,10350.0,0.8200
+Guatemala,Upper middle income,global,2x GDPpc PPP,20700.0,0.8200
+Guatemala,Upper middle income,global,3x GDPpc PPP,31050.0,0.8200
+Guatemala,Upper middle income,global,Ochalek low,1300.0,0.8200
+Guatemala,Upper middle income,global,Ochalek high,1800.0,0.8200
+Philippines,Lower middle income,global,1x GDPpc PPP,8900.0,0.9100
+Philippines,Lower middle income,global,2x GDPpc PPP,17800.0,0.9100
+Philippines,Lower middle income,global,3x GDPpc PPP,26700.0,0.9100
+Philippines,Lower middle income,global,Ochalek low,510.0,0.9100
+Philippines,Lower middle income,global,Ochalek high,730.0,0.9100
