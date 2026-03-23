@@ -16,4 +16,3 @@ Each subdirectory contains its own README with details on inputs, methods, and o
 ## Contact
 
 For technical queries, contact [ydchen.lse@gmail.com](mailto:ydchen.lse@gmail.com).
-# POCUS-CEA
